@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
+parent_uid: 91be65cc-0c4b-b519-a6dc-ab754287d391
 resourcetype: Document
 title: "Ellen\u2019s Voice"
 uid: 980953e4-e978-7790-ca18-3ee2e72268cb

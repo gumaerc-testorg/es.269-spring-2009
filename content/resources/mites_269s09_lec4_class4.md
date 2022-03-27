@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
+parent_uid: 91be65cc-0c4b-b519-a6dc-ab754287d391
 resourcetype: Document
 title: Discussion about Incognegro
 uid: 11c54abc-4465-1166-95f5-f10d773f2ebd

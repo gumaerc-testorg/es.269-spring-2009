@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
+parent_uid: 91be65cc-0c4b-b519-a6dc-ab754287d391
 resourcetype: Document
 title: Transsexuality and the Medical Community
 uid: 6a1a8855-1ddb-4890-e979-045bb5cf74f6

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
+parent_uid: 91be65cc-0c4b-b519-a6dc-ab754287d391
 resourcetype: Document
 title: Nobody Passes
 uid: de7a85d3-c6ae-eb3b-f8af-33ab6e8f4a8a

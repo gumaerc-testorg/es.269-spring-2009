@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
+parent_uid: 91be65cc-0c4b-b519-a6dc-ab754287d391
 resourcetype: Document
 title: 'Passing: Flexibility in Race and Gender'
 uid: aad9d98d-e6b2-da83-403d-0d5ccbde4e46
