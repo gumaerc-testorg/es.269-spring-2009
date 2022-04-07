@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes and Readings
 uid: 91be65cc-0c4b-b519-a6dc-ab754287d391
 ---
@@ -29,7 +30,7 @@ READINGS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Racial passing ([PDF]({{< baseurl >}}/resources/mites_269s09_lec1_class1)) (Courtesy of Rachel Dillon.)
+Racial passing ({{< resource_link 70042c50-5d6a-ec20-47b6-ee2a921b57ba "PDF" >}}) (Courtesy of Rachel Dillon.)
 {{< tdclose >}}
 {{< tdopen >}}
 Craft, William, and Ellen Craft. _Running a Thousand Miles for Freedom_. Atlanta, GA: University of Georgia Press, 1999. ISBN: 9780820321042. \[[Read](http://docsouth.unc.edu/neh/craft/craft.html) the book online\]
@@ -53,7 +54,7 @@ Continue with _Running a Thousand Miles for Freedom_.
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Interplay between race, gender, class, and literacy (cont.) ([PDF]({{< baseurl >}}/resources/mites_269s09_lec3_class3))
+Interplay between race, gender, class, and literacy (cont.) ({{< resource_link 980953e4-e978-7790-ca18-3ee2e72268cb "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -75,7 +76,7 @@ McCaskill, Barbara. "[Yours Very Truly: Ellen Craft-The Fugitive as Text and Art
 {{< tdopen >}}
 
 
-Discussion about _Incognegro_ ([PDF]({{< baseurl >}}/resources/mites_269s09_lec4_class4))
+Discussion about _Incognegro_ ({{< resource_link 11c54abc-4465-1166-95f5-f10d773f2ebd "PDF" >}})
 
 Special Guest: [Zanele Muholi](http://en.wikipedia.org/wiki/Zanele_Muholi)
 
@@ -91,7 +92,7 @@ Johnson, Mat, and Warren Pierce. _Incognegro_. New York, NY: Vertigo, 2008. ISBN
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Gender theory ([PDF]({{< baseurl >}}/resources/mites_269s09_lec5_class5))
+Gender theory ({{< resource_link 38952adb-b614-4799-1cb5-063488153f8e "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -111,7 +112,7 @@ Butler, Judith. "Peformative Acts and Gender Constitution: An Essay in Phenomeno
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Transgender issues ([PDF]({{< baseurl >}}/resources/mites_269s09_lec6_class6))
+Transgender issues ({{< resource_link c2b37b27-6e03-554a-c8fc-743ed92e15f5 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Raymond, Janice. _The Transsexual Empire: The Making of the She-Male_. New York, NY: Teachers College Press, 1994. ISBN: 9780807762721.
@@ -123,7 +124,7 @@ Raymond, Janice. _The Transsexual Empire: The Making of the She-Male_. New York,
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Nella Larsen's _Passing_ ([PDF]({{< baseurl >}}/resources/mites_269s09_lec7_class7))
+Nella Larsen's _Passing_ ({{< resource_link aad9d98d-e6b2-da83-403d-0d5ccbde4e46 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Larsen, Nella. _Passing_. New York, NY: W.W. Norton & Co., 2007. ISBN: 9780393979169. \[[Preview](http://books.google.com/books?id=eGtk2HVLYoMC&pg=PAfrontcover) in Google Books\]
@@ -149,7 +150,7 @@ Grumbach, Doris. _Chamber Music_. Wainscott, New York, NY: Pushcart Press, 2008.
 {{< tdopen >}}
 
 
-Transsexuality and the medical community ([PDF]({{< baseurl >}}/resources/mites_269s09_lec9_class9))
+Transsexuality and the medical community ({{< resource_link 6a1a8855-1ddb-4890-e979-045bb5cf74f6 "PDF" >}})
 
 (Courtesy of Rachel Dillon.)
 
@@ -173,7 +174,7 @@ Califia, Patrick. "Transsexual Autobiography." In _Sex Changes: Transgender Poli
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Essays from _Nobody Passes_ ([PDF]({{< baseurl >}}/resources/mites_269s09_lec10_class10))
+Essays from _Nobody Passes_ ({{< resource_link a1eaeace-6483-e94a-457b-8dc245cf9523 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sycamore, Matt Bernstein. _Nobody Passes: Rejecting the Rules of Gender and Conformity_. Berkeley, CA: Seal Press, 2006. ISBN: 9781580051842.
@@ -185,7 +186,7 @@ Sycamore, Matt Bernstein. _Nobody Passes: Rejecting the Rules of Gender and Conf
 11
 {{< tdclose >}}
 {{< tdopen >}}
-_Nobody Passes_ (cont.) ([PDF]({{< baseurl >}}/resources/mites_269s09_lec11_class11))
+_Nobody Passes_ (cont.) ({{< resource_link de7a85d3-c6ae-eb3b-f8af-33ab6e8f4a8a "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Comeau, Joey. [_Lockpick Pornography_](http://cargocollective.com/joeycomeau/Lockpick-Pornography). Vancouver, BC: Loose Teeth Press, 2008.
@@ -197,7 +198,7 @@ Comeau, Joey. [_Lockpick Pornography_](http://cargocollective.com/joeycomeau/Loc
 12
 {{< tdclose >}}
 {{< tdopen >}}
-_Nobody Passes_ (cont.) ([PDF]({{< baseurl >}}/resources/mites_269s09_lec12_class12))
+_Nobody Passes_ (cont.) ({{< resource_link c6ea89c1-1ba8-28e8-3b41-5eb9eb2f34e9 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
