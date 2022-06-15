@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to Transsexuality and the
   Medical Community. '
-file: /media/courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/6a1a88551ddb4890e979045bb5cf74f6_MITES_269S09_lec9_Class9.pdf
+file: /courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/6a1a88551ddb4890e979045bb5cf74f6_MITES_269S09_lec9_Class9.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Transsexuality and the Medical Community
 uid: 6a1a8855-1ddb-4890-e979-045bb5cf74f6
 ---
+This resource contains information related to Transsexuality and the Medical Community. 
+

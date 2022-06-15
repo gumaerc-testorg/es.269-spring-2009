@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course and information
+  on the The Experimental Study Group (ESG), course meeting times, prerequisites,
+  assignments, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 3e931feb-273b-f725-38f8-43071334cc64
 ---

@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of related resources on queer, gender, and
+  critical race theories.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: 1a6a7ab3-c028-5202-32a3-ef396e13931b
 ---
