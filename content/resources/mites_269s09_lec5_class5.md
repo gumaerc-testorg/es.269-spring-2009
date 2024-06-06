@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to Gender theory.
 file: /courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/38952adbb61447991cb5063488153f8e_MITES_269S09_lec5_Class5.pdf
+file_size: 479633
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
