@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Essays from Nobody Passes.
-file: /courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/a1eaeace6483e94a457b8dc245cf9523_MITES_269S09_lec10_Class10.pdf
+file: /ol-ocw-studio-app/courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/a1eaeace6483e94a457b8dc245cf9523_MITES_269S09_lec10_Class10.pdf
 file_size: 483909
 file_type: application/pdf
 learning_resource_types: []
