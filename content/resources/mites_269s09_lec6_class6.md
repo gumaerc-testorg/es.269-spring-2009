@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Transgender issues.
-file: /courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/c2b37b276e03554ac8fc743ed92e15f5_MITES_269S09_lec6_Class6.pdf
+file: /ol-ocw-studio-app/courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/c2b37b276e03554ac8fc743ed92e15f5_MITES_269S09_lec6_Class6.pdf
 file_size: 28718
 file_type: application/pdf
 learning_resource_types: []
