@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Discussion about Incognegro.
-file: /ol-ocw-studio-app/courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/11c54abc4465116695f5f10d773f2ebd_MITES_269S09_lec4_Class4.pdf
+file: /courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/11c54abc4465116695f5f10d773f2ebd_MITES_269S09_lec4_Class4.pdf
 file_size: 487949
 file_type: application/pdf
 learning_resource_types: []
