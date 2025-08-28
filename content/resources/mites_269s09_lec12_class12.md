@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to Nobody Passes. '
-file: /courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/c6ea89c11ba828e83b415eb9eb2f34e9_MITES_269S09_lec12_Class12.pdf
+file: /ol-ocw-studio-app/courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/c6ea89c11ba828e83b415eb9eb2f34e9_MITES_269S09_lec12_Class12.pdf
 file_size: 62524
 file_type: application/pdf
 learning_resource_types: []
