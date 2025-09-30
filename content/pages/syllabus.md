@@ -17,7 +17,7 @@ Lectures: 1 session / week, 2 hours / session
 About the Program
 -----------------
 
-[The Experimental Study Group](http://esg.mit.edu/) (ESG) is an alternative academic program that offers experimental, small group learning in the core freshmen subjects within a community-based setting. This course, as part of the ESG Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor.
+{{% resource_link "9be91ab1-3316-4b85-a64a-ce2fc5f83f60" "The Experimental Study Group" %}} (ESG) is an alternative academic program that offers experimental, small group learning in the core freshmen subjects within a community-based setting. This course, as part of the ESG Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor.
 
 Prerequisites
 -------------

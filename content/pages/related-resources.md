@@ -8,19 +8,19 @@ title: Related Resources
 uid: 1a6a7ab3-c028-5202-32a3-ef396e13931b
 ---
 
-Synopsis of Nella Larsen's [_Passing_](http://en.wikipedia.org/wiki/Nella_Larsen)
+Synopsis of Nella Larsen's {{% resource_link "e314dbfe-0b78-42dd-8880-7a1b35df85a9" "_Passing_" %}}
 
-Wikpedia entry about [JT Leroy](http://en.wikipedia.org/wiki/JT_LeRoy)
+Wikpedia entry about {{% resource_link "cb8030d7-abb0-4850-bb8b-eb3080ec9f6c" "JT Leroy" %}}
 
-Michael Stevenson's blog post about [Zanele Muholi](http://archive.stevenson.info/exhibitions/muholi/index2010.htm)
+Michael Stevenson's blog post about {{% resource_link "b74b12ae-6a8b-41c9-ae15-7ac67dd2d169" "Zanele Muholi" %}}
 
-[Zanele Muholi's](http://muzane.wordpress.com/) blog
+{{% resource_link "c3d084e7-2bb6-4de8-bf62-694dc33be59e" "Zanele Muholi's" %}} blog
 
-Wikipedia entry about [Ernest Cole](http://en.wikipedia.org/wiki/Ernest_Cole)
+Wikipedia entry about {{% resource_link "abe791c6-e8fd-480d-bd57-531bf5c493bf" "Ernest Cole" %}}
 
-Wikipedia entry about the [Melungeon](http://en.wikipedia.org/wiki/Melungeon)
+Wikipedia entry about the {{% resource_link "d540524f-218c-4213-aa33-5914db58b73f" "Melungeon" %}}
 
-Bilefsky, Dan. "[Albanian Custom Fades: Woman as Family Man](http://www.nytimes.com/2008/06/25/world/europe/25virgins.html?_r=1)." _The New York Times_, June 25, 2008.
+Bilefsky, Dan. "{{% resource_link "139caff9-775e-48e4-94b1-1037ad95df2b" "Albanian Custom Fades: Woman as Family Man" %}}." _The New York Times_, June 25, 2008.
 
 MacDonald, Ann-Marie. _Fall on Your Knees_. New York, NY: Simon & Schuster, 2002. ISBN: 9780743237185.
 
